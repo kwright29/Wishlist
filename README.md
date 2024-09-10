@@ -1,10 +1,10 @@
 # Android Project 2 - *Wishlist*
 
-Submitted by: **Your Name Here**
+Submitted by: **Khloe Wright**
 
 **Name of your app** is a wishlist app that helps the user keep track of what they want to buy.
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/vDsvrU0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/zdijdRV' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Imgur  
