@@ -1,4 +1,4 @@
-# Android Project 2 - *Name of App Here*
+# Android Project 2 - *Wishlist*
 
 Submitted by: **Your Name Here**
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/vDsvrU0.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[https://imgur.com/a/vDsvrU0.gif](https://imgur.com/a/zdijdRV)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Imgur  
